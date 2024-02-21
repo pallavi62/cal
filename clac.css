@@ -1,0 +1,11 @@
+body{
+    background-image: url(h.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+button{
+    background-color: rgb(190, 162, 70);
+}
+h1{
+    background-color:gray;
+}
